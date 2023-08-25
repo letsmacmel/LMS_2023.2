@@ -1,2 +1,3 @@
-# LMS_2023.2
-Atividades da disciplina de LMS 2023.2
+Decidi um formulario que o usuário tivesse que falar seus dados para enviar a uma seleção de animais para adoção, assim ele teria uma informação para ler, nome, idade, genero, renda, todas as informações de um formulário aplicado em um contexto que faz sentido. Me empolguei e quis testar tudo.
+
+Senti dificuldades em aplicar os "div", article, por exemplo, pois não sabia em que caso aplicar, achei meio confuso.  Contudo pesquisei algumas coisas na internet (o forms e os divs) e me apoiei no material (slides).
